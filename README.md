@@ -4,4 +4,4 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 A preview of the solution, powered by GitHub Pages, is available [here](https://dianagatcan.github.io/CardComponent/).
 
-<img width="520" alt="Screen Shot 2022-02-20 at 1 25 24 PM" src="https://user-images.githubusercontent.com/67389035/154840181-d9934568-7472-4bbc-8bfb-d9d2586fbb88.png">
+<img width="859" alt="Screen Shot 2022-03-11 at 9 50 58 PM" src="https://user-images.githubusercontent.com/67389035/157948399-1787bd4c-5260-4a94-a7ea-5438d08fcd04.png">
